@@ -1,0 +1,2 @@
+parameter,value,unit,source,notes
+world_avg_grassland_npp,2.45,tonnes dry matter / ha / year,"Monfreda et al. 2008 (SAGE, Univ. Wisconsin)",Above-ground edible NPP for grassland. Used as Y_W in grazing footprint.

@@ -1,0 +1,7 @@
+land_type,equivalence_factor_gha_per_ha,notes
+Cropland,2.1,Wackernagel et al. 2002 (Table 1)
+Built-up land,2.2,Assumed same productivity as cropland it replaces
+Forest,1.3,Wackernagel et al. 2002 (Table 1)
+Grazing land,0.5,Wackernagel et al. 2002 (Table 1)
+Fishing grounds,0.4,Wackernagel et al. 2002 (Table 1)
+Carbon (fossil fuel),1.3,Uses forest equivalence factor (sequestration area)

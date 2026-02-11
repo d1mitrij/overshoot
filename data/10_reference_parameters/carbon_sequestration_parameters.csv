@@ -1,0 +1,5 @@
+parameter,value,uncertainty,unit,source,notes
+AFCS,0.73,± 0.37,tonnes C / ha / year,Mancini et al. (NFA 2016),Average Forest-Carbon Sequestration rate for world-average forests
+ocean_co2_fraction_min,0.28,,fraction,Khatiwala et al. 2009 (Nature),Minimum ocean absorption of anthropogenic CO2 (1961-2008 range)
+ocean_co2_fraction_max,0.35,,fraction,Khatiwala et al. 2009 (Nature),Maximum ocean absorption of anthropogenic CO2 (1961-2008 range)
+ocean_co2_fraction_default,0.35,,fraction,Wackernagel et al. 2002 / IPCC 2001,Commonly used constant for ocean CO2 absorption (~35%)

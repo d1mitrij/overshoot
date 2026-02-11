@@ -1,0 +1,59 @@
+# ── Python ──────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+.venv/
+venv/
+env/
+
+# ── Data: bulk/generated data is fetched, not stored ───────
+# Run `./setup.sh` after cloning to download all data files.
+# Only small reference parameters and READMEs are tracked.
+data/raw/
+data/01_cropland/*.csv
+data/02_grazing/livestock_stocks.csv
+data/02_grazing/pasture_area.csv
+data/03_forest/*.csv
+data/04_fishing/fish_supply_fbs.csv
+data/05_built_up/*.csv
+data/06_carbon/*.csv
+data/07_population/*.csv
+data/08_trade/*.csv
+data/overshoot_results.csv
+data/overshoot_global_summary.csv
+data/FETCH_SUMMARY.txt
+
+# ── Research documents (download separately; see references/README.md) ──
+*.pdf
+*.PDF
+*.epub
+*.EPUB
+*.djvu
+*.mobi
+
+# ── Converted markdown from PDFs (reproducible via scripts/convert_to_md.sh) ──
+references/md_output/
+
+# ── Incomplete downloads ───────────────────────────────────
+*.crdownload
+
+# ── Windows Zone.Identifier metadata ──────────────────────
+*:Zone.Identifier
+
+# ── OS junk ────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDE / editor ───────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ── Claude Code local settings ─────────────────────────────
+.claude/

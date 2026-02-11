@@ -1,0 +1,2 @@
+parameter,value,unit,source,notes
+world_avg_forest_NAI,1.81,m3 harvestable wood / ha / year,UNECE/FAO TBFRA 2000 + FAO GFSM 1998,Net Annual Increment. Denominator for forest product Footprint.

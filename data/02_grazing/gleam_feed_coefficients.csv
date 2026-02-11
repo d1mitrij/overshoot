@@ -1,0 +1,9 @@
+animal_type,total_dmi_kg_per_day,pasture_fraction,crop_fraction,residue_fraction,pasture_dmi_kg_per_day,annual_pasture_demand_t_dm,source
+Cattle (dairy),14.5,0.45,0.3,0.25,6.53,2.382,FAO GLEAM 3.0 (global averages)
+Cattle (beef),9.8,0.65,0.15,0.2,6.37,2.325,FAO GLEAM 3.0 (global averages)
+Buffalo,12.0,0.55,0.2,0.25,6.6,2.409,FAO GLEAM 3.0 (global averages)
+Sheep,1.8,0.7,0.1,0.2,1.26,0.46,FAO GLEAM 3.0 (global averages)
+Goats,1.5,0.72,0.08,0.2,1.08,0.394,FAO GLEAM 3.0 (global averages)
+Pigs,2.5,0.0,0.75,0.25,0.0,0.0,FAO GLEAM 3.0 (global averages)
+Chickens (layers),0.12,0.0,0.9,0.1,0.0,0.0,FAO GLEAM 3.0 (global averages)
+Chickens (broilers),0.1,0.0,0.9,0.1,0.0,0.0,FAO GLEAM 3.0 (global averages)

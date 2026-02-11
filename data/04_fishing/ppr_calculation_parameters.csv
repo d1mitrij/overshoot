@@ -1,0 +1,6 @@
+parameter,value,unit,source,notes
+transfer_efficiency,0.1013,fraction,Pauly & Christensen 1995,Efficiency between trophic levels (10.13%)
+discard_rate,1.27,ratio,Pauly & Christensen 1995,1.27 = 0.27 t bycatch per tonne harvested
+wet_weight_to_carbon,9.0,ratio,Sea Around Us / Pauly,9:1 wet weight to carbon conversion
+sustainable_catch_global,93.0,million tonnes/yr,Gulland 1971 / FAO,Maximum sustainable yield for global marine capture
+continental_shelf_area,2000000000.0,hectares,Various oceanographic,~2 billion ha of continental shelf
